@@ -68,7 +68,7 @@
       "package": {
         "name": "koodimonni-plugin-language/contact-form-7-ja",
         "type": "wordpress-language",
-        "version": "6.1.7",
+        "version": "6.2.2",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/contact-form-7/{%version}/ja.zip",
@@ -156,7 +156,7 @@
       "package": {
         "name": "koodimonni-plugin-language/wp-fastest-cache-ja",
         "type": "wordpress-language",
-        "version": "1.5.2",
+        "version": "1.5.3",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/wp-fastest-cache/{%version}/ja.zip"
